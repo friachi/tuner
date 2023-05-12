@@ -6,6 +6,8 @@ Copyright (c) 2021 chciken
 
 https://www.chciken.com/digital/signal/processing/2020/05/13/guitar-tuner.html#dft
 
+https://newt.phys.unsw.edu.au/jw/notes.html
+
 '''
 
 import copy
